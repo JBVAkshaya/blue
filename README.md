@@ -1,10 +1,10 @@
 # Multi-Robot Angler :ocean:
 
+### Disclaimer: We have raised PR to add multi-robot support to the [original repository](https://github.com/Robotic-Decision-Making-Lab/blue). 
+
 Multi-Robot Angler is developed as an extension to [Blue](https://github.com/Robotic-Decision-Making-Lab/blue) to support multi-robot simulation. 
 
 Blue is a ROS 2 pipeline designed to support development, testing, and deployment of underwater vehicles. To get started with Blue, please refer to the project [documentation](https://robotic-decision-making-lab.github.io/blue/).
-
-We have raised PR to add multi-robot support to the original repository. 
 
 ## Multi Robot Simulation and Teleoperation
 
