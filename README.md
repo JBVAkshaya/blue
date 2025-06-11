@@ -24,12 +24,9 @@ The following ROS 2 dependencies are required for this tutorial:
 - [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard)
 - [mobile_to_maritime](https://github.com/Robotic-Decision-Making-Lab/mobile_to_maritime)
 
-These dependencies will be met by default if you have installed Blue with
-Docker as described in the [installation instructions](/installation).
-
 ### Tutorial steps
 
-*Please checkout the iron-mp branch before following starting this tutorial.*
+*Please checkout the iron-mp branch before starting this tutorial.*
 
 1. Launch the demo Dependencies for `rob_1` and `rob_3` instances in simulation by running the following commands:
 
